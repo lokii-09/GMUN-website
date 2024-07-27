@@ -1,2 +1,2 @@
-# web-task-1
+# GMUN website
 hii
